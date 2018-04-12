@@ -40,6 +40,12 @@ https://anidiotsguide\_old.gitbooks.io/discord-js-bot-guide/content/other-guides
 
 {% embed data="{\"url\":\"https://trendblog.net/copy-tab-urls-chrome/\",\"type\":\"link\",\"title\":\"How To Copy Tab URLs In Chrome For All Or Selected Tabs\",\"description\":\"Do you need to quickly copy tab URLs for all or selected tabs in Chrome? We\'ll show you two extensions that allow you to easily save the URLs for open tabs.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://trendblog.net/wp-content/uploads/2018/02/cropped-favicon-trendblog-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://trendblog.net/wp-content/uploads/2017/10/copy-tab-urls.png\",\"width\":474,\"height\":450,\"aspectRatio\":0.9493670886075949}}" %}
 
+https://anidiotsguide\_old.gitbooks.io/discord-js-bot-guide
+
+
+
+
+
 
 
 
