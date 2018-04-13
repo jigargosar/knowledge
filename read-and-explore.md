@@ -4,7 +4,13 @@ description: Backlog of cool discoveries
 
 # Read & Explore
 
- 
+## Fri 13th Apr
+
+{% embed data="{\"url\":\"https://github.com/sapegin/mrm\",\"type\":\"link\",\"title\":\"sapegin/mrm\",\"description\":\"mrm - Codemods for your project config files\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/70067?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+
+
+
+## Thu 12th Apr
 
 {% embed data="{\"url\":\"https://github.com/serhii-londar/open-source-mac-os-apps\",\"type\":\"link\",\"title\":\"serhii-londar/open-source-mac-os-apps\",\"description\":\"open-source-mac-os-apps - List of open source applications for macOS.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/15808174?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
 
